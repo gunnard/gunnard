@@ -1,7 +1,7 @@
  <div class="jumbotron">
         <div class="container">
           <h1 class="display-3">Hello, I'm Gunnard Engebreth</h1>
-          <img src="http://www.gunnard.org/images/matias.jpg" />
+          <img src="https://www.gunnard.org/images/matias.jpg" />
           <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
       </div>
