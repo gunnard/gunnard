@@ -16,7 +16,7 @@
  <img align="center"  height=153px" src="https://github-readme-stats.vercel.app/api/pin/?username=gunnard&repo=dotfiles&theme=dark&show_icons=true" />
                                                                                                                                                   </a>
                                                                                                                                                   <a href="https://github.com/gunnard/wordpress-develop">
-  <img align="center"   height="123px" src="https://github-readme-stats.vercel.app/api/pin/?username=gunnard&repo=openipsum&theme=dark&show_icons=true" />
+  <img align="center"   height="123px" src="https://github-readme-stats.vercel.app/api/pin/?username=gunnard&repo=wordpress-develop&theme=dark&show_icons=true" />
                                                                                                                                                       </a><br />
       <a href="https://github.com/gunnard/dalekipsum">                                                                                                                                              
   <img align="center"  height="153px" src="https://github-readme-stats.vercel.app/api/pin/?username=gunnard&repo=dalekipsum&theme=dark&show_icons=true" />
