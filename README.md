@@ -11,7 +11,6 @@
 <img align="center" src="https://badgen.net/badge/vim/8.1/grey">
 <img align="center" src="https://badgen.net/badge/icon/docker/grey?icon=docker&label">
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=gunnard&theme=blue-green">
 
 ## I'm a Husband, Developer, and Author!
                                          
